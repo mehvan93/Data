@@ -1,0 +1,2765 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "timings": {
+        "Fajr": "05:40 (+03)",
+        "Sunrise": "07:02 (+03)",
+        "Dhuhr": "11:57 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:30 (+03)",
+        "Midnight": "23:57 (+03)",
+        "Firstthird": "21:35 (+03)",
+        "Lastthird": "02:18 (+03)"
+      },
+      "date": {
+        "readable": "01 Dec 2022",
+        "timestamp": "1669874461",
+        "gregorian": {
+          "date": "01-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "07-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:41 (+03)",
+        "Sunrise": "07:03 (+03)",
+        "Dhuhr": "11:57 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:31 (+03)",
+        "Midnight": "23:57 (+03)",
+        "Firstthird": "21:35 (+03)",
+        "Lastthird": "02:19 (+03)"
+      },
+      "date": {
+        "readable": "02 Dec 2022",
+        "timestamp": "1669960861",
+        "gregorian": {
+          "date": "02-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "08-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:42 (+03)",
+        "Sunrise": "07:04 (+03)",
+        "Dhuhr": "11:58 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:32 (+03)",
+        "Midnight": "23:58 (+03)",
+        "Firstthird": "21:35 (+03)",
+        "Lastthird": "02:20 (+03)"
+      },
+      "date": {
+        "readable": "03 Dec 2022",
+        "timestamp": "1670047261",
+        "gregorian": {
+          "date": "03-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "09-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:43 (+03)",
+        "Sunrise": "07:05 (+03)",
+        "Dhuhr": "11:58 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:33 (+03)",
+        "Midnight": "23:58 (+03)",
+        "Firstthird": "21:36 (+03)",
+        "Lastthird": "02:20 (+03)"
+      },
+      "date": {
+        "readable": "04 Dec 2022",
+        "timestamp": "1670133661",
+        "gregorian": {
+          "date": "04-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "10-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:44 (+03)",
+        "Sunrise": "07:05 (+03)",
+        "Dhuhr": "11:58 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:34 (+03)",
+        "Midnight": "23:58 (+03)",
+        "Firstthird": "21:36 (+03)",
+        "Lastthird": "02:21 (+03)"
+      },
+      "date": {
+        "readable": "05 Dec 2022",
+        "timestamp": "1670220061",
+        "gregorian": {
+          "date": "05-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "11-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:44 (+03)",
+        "Sunrise": "07:06 (+03)",
+        "Dhuhr": "11:59 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:34 (+03)",
+        "Midnight": "23:59 (+03)",
+        "Firstthird": "21:36 (+03)",
+        "Lastthird": "02:21 (+03)"
+      },
+      "date": {
+        "readable": "06 Dec 2022",
+        "timestamp": "1670306461",
+        "gregorian": {
+          "date": "06-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "12-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:45 (+03)",
+        "Sunrise": "07:07 (+03)",
+        "Dhuhr": "11:59 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:35 (+03)",
+        "Midnight": "23:59 (+03)",
+        "Firstthird": "21:37 (+03)",
+        "Lastthird": "02:22 (+03)"
+      },
+      "date": {
+        "readable": "07 Dec 2022",
+        "timestamp": "1670392861",
+        "gregorian": {
+          "date": "07-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "13-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:46 (+03)",
+        "Sunrise": "07:08 (+03)",
+        "Dhuhr": "12:00 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:36 (+03)",
+        "Midnight": "00:00 (+03)",
+        "Firstthird": "21:37 (+03)",
+        "Lastthird": "02:22 (+03)"
+      },
+      "date": {
+        "readable": "08 Dec 2022",
+        "timestamp": "1670479261",
+        "gregorian": {
+          "date": "08-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "14-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:47 (+03)",
+        "Sunrise": "07:09 (+03)",
+        "Dhuhr": "12:00 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:51 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:37 (+03)",
+        "Midnight": "00:00 (+03)",
+        "Firstthird": "21:37 (+03)",
+        "Lastthird": "02:23 (+03)"
+      },
+      "date": {
+        "readable": "09 Dec 2022",
+        "timestamp": "1670565661",
+        "gregorian": {
+          "date": "09-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "15-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:47 (+03)",
+        "Sunrise": "07:10 (+03)",
+        "Dhuhr": "12:01 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:37 (+03)",
+        "Midnight": "00:01 (+03)",
+        "Firstthird": "21:38 (+03)",
+        "Lastthird": "02:24 (+03)"
+      },
+      "date": {
+        "readable": "10 Dec 2022",
+        "timestamp": "1670652061",
+        "gregorian": {
+          "date": "10-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "16-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:48 (+03)",
+        "Sunrise": "07:10 (+03)",
+        "Dhuhr": "12:01 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:09 (+03)",
+        "Isha": "18:03 (+03)",
+        "Imsak": "05:38 (+03)",
+        "Midnight": "00:01 (+03)",
+        "Firstthird": "21:38 (+03)",
+        "Lastthird": "02:24 (+03)"
+      },
+      "date": {
+        "readable": "11 Dec 2022",
+        "timestamp": "1670738461",
+        "gregorian": {
+          "date": "11-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "17-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:49 (+03)",
+        "Sunrise": "07:11 (+03)",
+        "Dhuhr": "12:02 (+03)",
+        "Asr": "14:35 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:10 (+03)",
+        "Isha": "18:04 (+03)",
+        "Imsak": "05:39 (+03)",
+        "Midnight": "00:01 (+03)",
+        "Firstthird": "21:38 (+03)",
+        "Lastthird": "02:25 (+03)"
+      },
+      "date": {
+        "readable": "12 Dec 2022",
+        "timestamp": "1670824861",
+        "gregorian": {
+          "date": "12-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "18-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:49 (+03)",
+        "Sunrise": "07:12 (+03)",
+        "Dhuhr": "12:02 (+03)",
+        "Asr": "14:36 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:10 (+03)",
+        "Isha": "18:04 (+03)",
+        "Imsak": "05:39 (+03)",
+        "Midnight": "00:02 (+03)",
+        "Firstthird": "21:39 (+03)",
+        "Lastthird": "02:25 (+03)"
+      },
+      "date": {
+        "readable": "13 Dec 2022",
+        "timestamp": "1670911261",
+        "gregorian": {
+          "date": "13-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "19-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:50 (+03)",
+        "Sunrise": "07:13 (+03)",
+        "Dhuhr": "12:02 (+03)",
+        "Asr": "14:36 (+03)",
+        "Sunset": "16:52 (+03)",
+        "Maghrib": "17:10 (+03)",
+        "Isha": "18:04 (+03)",
+        "Imsak": "05:40 (+03)",
+        "Midnight": "00:02 (+03)",
+        "Firstthird": "21:39 (+03)",
+        "Lastthird": "02:26 (+03)"
+      },
+      "date": {
+        "readable": "14 Dec 2022",
+        "timestamp": "1670997661",
+        "gregorian": {
+          "date": "14-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "20-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:51 (+03)",
+        "Sunrise": "07:13 (+03)",
+        "Dhuhr": "12:03 (+03)",
+        "Asr": "14:36 (+03)",
+        "Sunset": "16:53 (+03)",
+        "Maghrib": "17:10 (+03)",
+        "Isha": "18:05 (+03)",
+        "Imsak": "05:41 (+03)",
+        "Midnight": "00:03 (+03)",
+        "Firstthird": "21:39 (+03)",
+        "Lastthird": "02:26 (+03)"
+      },
+      "date": {
+        "readable": "15 Dec 2022",
+        "timestamp": "1671084061",
+        "gregorian": {
+          "date": "15-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "21-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:51 (+03)",
+        "Sunrise": "07:14 (+03)",
+        "Dhuhr": "12:03 (+03)",
+        "Asr": "14:36 (+03)",
+        "Sunset": "16:53 (+03)",
+        "Maghrib": "17:11 (+03)",
+        "Isha": "18:05 (+03)",
+        "Imsak": "05:41 (+03)",
+        "Midnight": "00:03 (+03)",
+        "Firstthird": "21:40 (+03)",
+        "Lastthird": "02:27 (+03)"
+      },
+      "date": {
+        "readable": "16 Dec 2022",
+        "timestamp": "1671170461",
+        "gregorian": {
+          "date": "16-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "22-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:52 (+03)",
+        "Sunrise": "07:15 (+03)",
+        "Dhuhr": "12:04 (+03)",
+        "Asr": "14:37 (+03)",
+        "Sunset": "16:53 (+03)",
+        "Maghrib": "17:11 (+03)",
+        "Isha": "18:05 (+03)",
+        "Imsak": "05:42 (+03)",
+        "Midnight": "00:04 (+03)",
+        "Firstthird": "21:40 (+03)",
+        "Lastthird": "02:27 (+03)"
+      },
+      "date": {
+        "readable": "17 Dec 2022",
+        "timestamp": "1671256861",
+        "gregorian": {
+          "date": "17-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "23-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:53 (+03)",
+        "Sunrise": "07:15 (+03)",
+        "Dhuhr": "12:04 (+03)",
+        "Asr": "14:37 (+03)",
+        "Sunset": "16:54 (+03)",
+        "Maghrib": "17:12 (+03)",
+        "Isha": "18:06 (+03)",
+        "Imsak": "05:43 (+03)",
+        "Midnight": "00:04 (+03)",
+        "Firstthird": "21:41 (+03)",
+        "Lastthird": "02:28 (+03)"
+      },
+      "date": {
+        "readable": "18 Dec 2022",
+        "timestamp": "1671343261",
+        "gregorian": {
+          "date": "18-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "24-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:53 (+03)",
+        "Sunrise": "07:16 (+03)",
+        "Dhuhr": "12:05 (+03)",
+        "Asr": "14:37 (+03)",
+        "Sunset": "16:54 (+03)",
+        "Maghrib": "17:12 (+03)",
+        "Isha": "18:06 (+03)",
+        "Imsak": "05:43 (+03)",
+        "Midnight": "00:05 (+03)",
+        "Firstthird": "21:41 (+03)",
+        "Lastthird": "02:29 (+03)"
+      },
+      "date": {
+        "readable": "19 Dec 2022",
+        "timestamp": "1671429661",
+        "gregorian": {
+          "date": "19-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "25-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:54 (+03)",
+        "Sunrise": "07:16 (+03)",
+        "Dhuhr": "12:05 (+03)",
+        "Asr": "14:38 (+03)",
+        "Sunset": "16:55 (+03)",
+        "Maghrib": "17:12 (+03)",
+        "Isha": "18:07 (+03)",
+        "Imsak": "05:44 (+03)",
+        "Midnight": "00:05 (+03)",
+        "Firstthird": "21:42 (+03)",
+        "Lastthird": "02:29 (+03)"
+      },
+      "date": {
+        "readable": "20 Dec 2022",
+        "timestamp": "1671516061",
+        "gregorian": {
+          "date": "20-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "26-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:34 (+03)",
+        "Sunrise": "07:37 (+03)",
+        "Dhuhr": "12:36 (+03)",
+        "Asr": "14:38 (+03)",
+        "Sunset": "16:35 (+03)",
+        "Maghrib": "17:33 (+03)",
+        "Isha": "18:37 (+03)",
+        "Imsak": "05:34 (+03)",
+        "Midnight": "00:06 (+03)",
+        "Firstthird": "21:42 (+03)",
+        "Lastthird": "02:30 (+03)"
+      },
+      "date": {
+        "readable": "21 Dec 2022",
+        "timestamp": "1671602461",
+        "gregorian": {
+          "date": "21-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "27-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:55 (+03)",
+        "Sunrise": "07:17 (+03)",
+        "Dhuhr": "12:06 (+03)",
+        "Asr": "14:39 (+03)",
+        "Sunset": "16:55 (+03)",
+        "Maghrib": "17:13 (+03)",
+        "Isha": "18:08 (+03)",
+        "Imsak": "05:45 (+03)",
+        "Midnight": "00:06 (+03)",
+        "Firstthird": "21:43 (+03)",
+        "Lastthird": "02:30 (+03)"
+      },
+      "date": {
+        "readable": "22 Dec 2022",
+        "timestamp": "1671688861",
+        "gregorian": {
+          "date": "22-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "28-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:55 (+03)",
+        "Sunrise": "07:18 (+03)",
+        "Dhuhr": "12:07 (+03)",
+        "Asr": "14:39 (+03)",
+        "Sunset": "16:56 (+03)",
+        "Maghrib": "17:14 (+03)",
+        "Isha": "18:08 (+03)",
+        "Imsak": "05:45 (+03)",
+        "Midnight": "00:07 (+03)",
+        "Firstthird": "21:43 (+03)",
+        "Lastthird": "02:31 (+03)"
+      },
+      "date": {
+        "readable": "23 Dec 2022",
+        "timestamp": "1671775261",
+        "gregorian": {
+          "date": "23-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "29-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:56 (+03)",
+        "Sunrise": "07:18 (+03)",
+        "Dhuhr": "12:07 (+03)",
+        "Asr": "14:40 (+03)",
+        "Sunset": "16:57 (+03)",
+        "Maghrib": "17:14 (+03)",
+        "Isha": "18:09 (+03)",
+        "Imsak": "05:46 (+03)",
+        "Midnight": "00:07 (+03)",
+        "Firstthird": "21:44 (+03)",
+        "Lastthird": "02:31 (+03)"
+      },
+      "date": {
+        "readable": "24 Dec 2022",
+        "timestamp": "1671861661",
+        "gregorian": {
+          "date": "24-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "30-05-1444",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 5,
+            "en": "Jumādá al-ūlá",
+            "ar": "جُمادى الأولى"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:56 (+03)",
+        "Sunrise": "07:19 (+03)",
+        "Dhuhr": "12:08 (+03)",
+        "Asr": "14:40 (+03)",
+        "Sunset": "16:57 (+03)",
+        "Maghrib": "17:15 (+03)",
+        "Isha": "18:09 (+03)",
+        "Imsak": "05:46 (+03)",
+        "Midnight": "00:08 (+03)",
+        "Firstthird": "21:44 (+03)",
+        "Lastthird": "02:32 (+03)"
+      },
+      "date": {
+        "readable": "25 Dec 2022",
+        "timestamp": "1671948061",
+        "gregorian": {
+          "date": "25-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "01-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:56 (+03)",
+        "Sunrise": "07:19 (+03)",
+        "Dhuhr": "12:08 (+03)",
+        "Asr": "14:41 (+03)",
+        "Sunset": "16:58 (+03)",
+        "Maghrib": "17:16 (+03)",
+        "Isha": "18:10 (+03)",
+        "Imsak": "05:46 (+03)",
+        "Midnight": "00:08 (+03)",
+        "Firstthird": "21:45 (+03)",
+        "Lastthird": "02:32 (+03)"
+      },
+      "date": {
+        "readable": "26 Dec 2022",
+        "timestamp": "1672034461",
+        "gregorian": {
+          "date": "26-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "02-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:57 (+03)",
+        "Sunrise": "07:19 (+03)",
+        "Dhuhr": "12:09 (+03)",
+        "Asr": "14:41 (+03)",
+        "Sunset": "16:58 (+03)",
+        "Maghrib": "17:16 (+03)",
+        "Isha": "18:10 (+03)",
+        "Imsak": "05:47 (+03)",
+        "Midnight": "00:09 (+03)",
+        "Firstthird": "21:45 (+03)",
+        "Lastthird": "02:32 (+03)"
+      },
+      "date": {
+        "readable": "27 Dec 2022",
+        "timestamp": "1672120861",
+        "gregorian": {
+          "date": "27-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "03-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:57 (+03)",
+        "Sunrise": "07:20 (+03)",
+        "Dhuhr": "12:09 (+03)",
+        "Asr": "14:42 (+03)",
+        "Sunset": "16:59 (+03)",
+        "Maghrib": "17:17 (+03)",
+        "Isha": "18:11 (+03)",
+        "Imsak": "05:47 (+03)",
+        "Midnight": "00:09 (+03)",
+        "Firstthird": "21:46 (+03)",
+        "Lastthird": "02:33 (+03)"
+      },
+      "date": {
+        "readable": "28 Dec 2022",
+        "timestamp": "1672207261",
+        "gregorian": {
+          "date": "28-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "04-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:58 (+03)",
+        "Sunrise": "07:20 (+03)",
+        "Dhuhr": "12:10 (+03)",
+        "Asr": "14:42 (+03)",
+        "Sunset": "17:00 (+03)",
+        "Maghrib": "17:18 (+03)",
+        "Isha": "18:12 (+03)",
+        "Imsak": "05:48 (+03)",
+        "Midnight": "00:10 (+03)",
+        "Firstthird": "21:47 (+03)",
+        "Lastthird": "02:33 (+03)"
+      },
+      "date": {
+        "readable": "29 Dec 2022",
+        "timestamp": "1672293661",
+        "gregorian": {
+          "date": "29-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "05-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:58 (+03)",
+        "Sunrise": "07:20 (+03)",
+        "Dhuhr": "12:10 (+03)",
+        "Asr": "14:43 (+03)",
+        "Sunset": "17:01 (+03)",
+        "Maghrib": "17:18 (+03)",
+        "Isha": "18:12 (+03)",
+        "Imsak": "05:48 (+03)",
+        "Midnight": "00:10 (+03)",
+        "Firstthird": "21:47 (+03)",
+        "Lastthird": "02:34 (+03)"
+      },
+      "date": {
+        "readable": "30 Dec 2022",
+        "timestamp": "1672380061",
+        "gregorian": {
+          "date": "30-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "06-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:58 (+03)",
+        "Sunrise": "07:21 (+03)",
+        "Dhuhr": "12:11 (+03)",
+        "Asr": "14:44 (+03)",
+        "Sunset": "17:01 (+03)",
+        "Maghrib": "17:19 (+03)",
+        "Isha": "18:13 (+03)",
+        "Imsak": "05:48 (+03)",
+        "Midnight": "00:11 (+03)",
+        "Firstthird": "21:48 (+03)",
+        "Lastthird": "02:34 (+03)"
+      },
+      "date": {
+        "readable": "31 Dec 2022",
+        "timestamp": "1672466461",
+        "gregorian": {
+          "date": "31-12-2022",
+          "format": "DD-MM-YYYY",
+          "day": "31",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 12,
+            "en": "December"
+          },
+          "year": "2022",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "07-06-1444",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 6,
+            "en": "Jumādá al-ākhirah",
+            "ar": "جُمادى الآخرة"
+          },
+          "year": "1444",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 36.8527,
+        "longitude": 43.0207,
+        "timezone": "Asia/Baghdad",
+        "method": {
+          "id": 0,
+          "name": "Shia Ithna-Ashari, Leva Institute, Qum",
+          "params": {
+            "Fajr": 16,
+            "Isha": 14,
+            "Maghrib": 4,
+            "Midnight": "JAFARI"
+          },
+          "location": {
+            "latitude": 34.6415764,
+            "longitude": 50.8746035
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    }
+  ]
+}
